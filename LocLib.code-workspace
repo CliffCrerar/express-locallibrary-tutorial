@@ -4,5 +4,9 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"debug.allowBreakpointsEverywhere": true,
+		"debug.internalConsoleOptions": "openOnSessionStart",
+		"al.debug": true
+	}
 }

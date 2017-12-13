@@ -1,0 +1,10 @@
+{
+    "folders": [{
+        "path": "/Users/cliffordcrerar/Github/express-locallibrary-tutorial"
+    }],
+    "settings": {
+        "debug.allowBreakpointsEverywhere": true,
+        "debug.internalConsoleOptions": "openOnSessionStart",
+        "al.debug": true
+    }
+}
